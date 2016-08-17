@@ -1,4 +1,3 @@
-layout_spectrum: 0.5386189455166459
 typography_spectrum: 0.12233117362484336
 color:
   brandStrength: 0.7528985403478146
@@ -11,4 +10,6 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
+layout_spectrum: 0.5386189455166459
 name: Amr
+title: Amr Shafik
